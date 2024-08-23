@@ -1,0 +1,14 @@
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\bin\Debug\net8.0\Calcular promedio.exe
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\bin\Debug\net8.0\Calcular promedio.deps.json
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\bin\Debug\net8.0\Calcular promedio.runtimeconfig.json
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\bin\Debug\net8.0\Calcular promedio.dll
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\bin\Debug\net8.0\Calcular promedio.pdb
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\Calcular promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\Calcular promedio.AssemblyInfoInputs.cache
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\Calcular promedio.AssemblyInfo.cs
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\Calcular promedio.csproj.CoreCompileInputs.cache
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\Calcular promedio.dll
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\refint\Calcular promedio.dll
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\Calcular promedio.pdb
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\Calcular promedio.genruntimeconfig.cache
+C:\Users\juane\Escritorio\calcular_Promedio_c#\Calcular promedio\obj\Debug\net8.0\ref\Calcular promedio.dll

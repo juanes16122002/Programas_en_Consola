@@ -1,0 +1,14 @@
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\bin\Debug\net8.0\CalculadoraEnConsola.exe
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\bin\Debug\net8.0\CalculadoraEnConsola.deps.json
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\bin\Debug\net8.0\CalculadoraEnConsola.runtimeconfig.json
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\bin\Debug\net8.0\CalculadoraEnConsola.dll
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\bin\Debug\net8.0\CalculadoraEnConsola.pdb
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\CalculadoraEnConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\CalculadoraEnConsola.AssemblyInfoInputs.cache
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\CalculadoraEnConsola.AssemblyInfo.cs
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\CalculadoraEnConsola.csproj.CoreCompileInputs.cache
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\CalculadoraEnConsola.dll
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\refint\CalculadoraEnConsola.dll
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\CalculadoraEnConsola.pdb
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\CalculadoraEnConsola.genruntimeconfig.cache
+C:\Users\juane\Escritorio\Calculadora c# Consola\CalculadoraEnConsola\obj\Debug\net8.0\ref\CalculadoraEnConsola.dll
